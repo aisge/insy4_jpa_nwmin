@@ -6,7 +6,7 @@
 
 .Schritte zur Projektkonfiguration
 * Erstellen Sie ein neues Projekt in IntelliJ, indem Sie `File -> New -> Project from Version Control...` auswählen.
-* Geben Sie folgende URL ein: `https://github.com/aisge/?????quarkus-jpa-start.git`
+* Geben Sie folgende URL ein: `https://github.com/aisge/insy4_jpa_nwmin.git`
 
 .Datenbank-Explorer einrichten (falls Apache Derby verwendet wird)
 * Öffnen Sie die bereitgestellte Datei `datasource.txt` und kopieren Sie deren Inhalt in die Zwischenablage.
